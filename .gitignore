@@ -1,7 +1,2 @@
 .DS_Store
-project.xcworkspace/
-xcuserdata/
-*-assets/
-.gems/
-.bundle/
-build/
+*/.DS_Store
