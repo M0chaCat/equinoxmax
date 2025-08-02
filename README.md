@@ -11,6 +11,7 @@ To get up and running:
 
 ```bash
 npm i
+npm install -g rimraf
 ```
 
 ## Project Structure
