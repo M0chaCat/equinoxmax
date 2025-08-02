@@ -31,8 +31,6 @@ This will process your `/src/` contents and build them in order.
 
 It will be output to `/index/`
 
-Here's a clean and readable **file/folder tree** with brief explanations for each item in your project root:
-
 ---
 
 ## Project Structure
